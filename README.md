@@ -1,5 +1,5 @@
-<h2 align="left">Hi there 👋!</h2>
-
+Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+============================================================================================================================
 🔧 I'm a passionate programmer born in 2004, hailing from Vietnam. I specialize in software engineering and have a keen interest in machine learning, game development.
 
 ###
