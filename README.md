@@ -51,8 +51,10 @@
 
 ###
 
-<br clear="both">
+## Some of my favorite projects:
 
-<img src="https://raw.githubusercontent.com/Vkev/Vkev/output/snake.svg" alt="Snake animation" />
+**[`Tempusia`](https://store.steampowered.com/app/2054730/Tempusia/)**: a tricky puzzle game base on time rewinding mechanic.
 
-###
+**[`URP shader code`](https://github.com/VKev/Unity-URP-Shaders-Code)**: a project contain a lot of shader for URP unity.
+
+**[`Discord bot Rin-chan`](https://github.com/VKev/Discord-bot-Rin-chan)**: a discord bot that can sing, ask ChatGPT, generate AI image using Dall.
