@@ -61,6 +61,8 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 **[`URP shader code`](https://github.com/VKev/Unity-URP-Shaders-Code)**: a project contain a lot of shader for URP unity.
 
+**[`Real-Time Palm Print Identification System`](https://github.com/VKev/Real-Time-Palm-Print-Identification-System)**: Real-Time Palm print identification system tailored for uncooperative environment.
+
 **[`Discord bot Rin-chan`](https://github.com/VKev/Discord-bot-Rin-chan)**: a discord bot that can sing, ask ChatGPT, generate AI image using Dall.
 
 **[`TicketResell web`](https://github.com/VKev/TicketResell_Web)**: a website for buying resell ticket.
