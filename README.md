@@ -67,4 +67,4 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 **[`TicketResell web`](https://github.com/VKev/TicketResell_Web)**: a website for buying resell ticket.
 
-**[`GoodMeal web`]([https://github.com/VKev/TicketResell_Web](https://github.com/VKev/GoodMeal-AI-Food-Recommendation-Web-App))**: a food recommendation website powered by AI, recommend food nearby base on natural language.
+**[`GoodMeal web`](https://github.com/VKev/GoodMeal-AI-Food-Recommendation-Web-App)**: a food recommendation website powered by AI, recommend food nearby base on natural language.
