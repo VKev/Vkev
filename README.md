@@ -74,6 +74,8 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 **[`Tempusia`](https://store.steampowered.com/app/2054730/Tempusia/)**: a tricky puzzle game based on a time-rewinding mechanic.
 
+**[`Han Troi Tower Defense 3D`](https://github.com/VKev/Han-Troi-Tower-Defense-3D/)**: a tower defense 3d with stylize art for mobile.
+
 **[`URP Shader Code`](https://github.com/VKev/Unity-URP-Shaders-Code)**: a project containing many shaders for Unity URP.
 
 **[`Real-Time Palm Print Identification System`](https://github.com/VKev/Real-Time-Palm-Print-Identification-System)**: a real-time palm print identification system tailored for uncooperative environments.
